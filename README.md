@@ -1,9 +1,7 @@
-**Name:** CH DEVI VIVEK 
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT4MECQ
-**Domain:** Cloud Computing
-**Duration:** 17 Dec 2024 to 17 Apr 2025
-**Mentor:** Neela Santhosh Kumar
+# Internship Details
+
+**Name:** CH DEVI VIVEK | **Company:** CODTECH IT SOLUTIONS | **ID:** CT4MECQ | **Domain:** Cloud Computing | **Duration:** 17 Dec 2024 to 17 Apr 2025 | **Mentor:** Neela Santhosh Kumar
+
 
 # Deploying a Web Application on AWS Amplify
 
