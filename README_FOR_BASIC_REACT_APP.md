@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/my-basic-app.git
+   git clone https://github.com/DeviVivek/DEPLOYING-A-WEB-APPLICATION-ON-AWS_1/
    cd my-basic-app
    ```
 
@@ -91,22 +91,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For any questions or feedback, please reach out to:
 
-**Your Name**: [Your Email]  
-**GitHub**: [https://github.com/your-username](https://github.com/your-username)
+**Your Name**: DEVI VIVEK
+**GitHub**: [https://github.com/your-username](https://github.com/DeviVivek)
 ```
-
----
-
-Replace:
-- **`your-username`** with your GitHub username.
-- **`Your Name`** and **`Your Email`** with your details.
-
-Save this as `README.md` in the root of your project and include it in your Git repository:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push origin main
-```
-
-Let me know if you need further help! 😊
