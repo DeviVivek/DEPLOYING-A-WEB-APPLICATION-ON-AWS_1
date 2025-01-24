@@ -50,8 +50,11 @@ AWS Amplify is a cloud-based platform that allows developers to build, deploy, a
 
 ### 3. Create a New Amplify App
 - Click **Get Started** in the Amplify Hosting section.
+![Screenshot 2025-01-24 141542](https://github.com/user-attachments/assets/e2a763da-e098-471f-a36c-6e61a65ce40e)
 - Select your repository provider and connect your Git repository.
+![Screenshot 2025-01-24 141610](https://github.com/user-attachments/assets/7c94e154-4760-44e7-b7d8-c12589802f28)
 - Authenticate with your Git provider and choose the repository and branch to deploy.
+![Screenshot 2025-01-24 152138](https://github.com/user-attachments/assets/9cf66ad3-b714-4457-bf4a-04e8323c8d95)
 
 ### 4. Configure Build Settings
 - Amplify will automatically detect the framework (e.g., React, Angular).
@@ -59,13 +62,15 @@ AWS Amplify is a cloud-based platform that allows developers to build, deploy, a
 
 ### 5. Deploy the App
 - Click **Save and Deploy**.
+![Screenshot 2025-01-24 152205](https://github.com/user-attachments/assets/80675e97-dcfc-4b38-b042-c287c3ee264b)
 - Amplify will:
   1. Clone your repository.
   2. Build the application.
   3. Deploy the app to a live URL.
 
 ### 6. Access Your Deployed App
-- Once deployment is complete, you will get a live URL for your app (e.g., `https://your-app.amplifyapp.com`).
+- Once deployment is complete, you will get a live URL for your app
+![Screenshot 2025-01-24 152308](https://github.com/user-attachments/assets/d9c0d7f5-e584-4597-97e2-d4d74f7de24e)
 
 ---
 
