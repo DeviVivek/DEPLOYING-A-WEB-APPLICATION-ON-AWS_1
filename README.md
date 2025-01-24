@@ -45,6 +45,8 @@ AWS Amplify is a cloud-based platform that allows developers to build, deploy, a
 ### 2. Access AWS Amplify
 - Log in to the [AWS Management Console](https://aws.amazon.com/).
 - Search for and navigate to **AWS Amplify**.
+![WhatsApp Image 2025-01-24 at 15 45 28_c7dcad14](https://github.com/user-attachments/assets/c881dc70-4819-4fb2-bae0-7df080c27f0b)
+
 
 ### 3. Create a New Amplify App
 - Click **Get Started** in the Amplify Hosting section.
