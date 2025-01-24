@@ -92,5 +92,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 For any questions or feedback, please reach out to:
 
 **Your Name**: DEVI VIVEK
-**GitHub**: [https://github.com/your-username](https://github.com/DeviVivek)
+**GitHub**: [Devi_Vivek](https://github.com/DeviVivek)
 ```
